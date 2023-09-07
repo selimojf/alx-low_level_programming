@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *main-Aprogramthatprintsalinewithputsfunction 
- *Return:0(Success) 
+ *main -A program that prints a line with puts function 
+ *Return: 0 (Success) 
  */
-intmain(void) 
+int main(void) 
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);

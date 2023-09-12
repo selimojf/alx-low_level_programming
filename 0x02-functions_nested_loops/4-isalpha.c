@@ -8,7 +8,7 @@
  *
  * Return: 1 if c is low or cap otherwise 0
  */
-int _isalpha (int c)
+int _isalpha(int c)
 {
 	char lower, upper;
 	int letter = 0;
